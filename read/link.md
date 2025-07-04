@@ -10,7 +10,7 @@ has_children: false
 
 
 
-## Lxde
+## Budgie Desktop Environment
 
 | Link |
 | ---- |
