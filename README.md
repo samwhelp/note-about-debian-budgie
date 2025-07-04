@@ -18,6 +18,7 @@
 * [輸入法](#輸入法)
 * [佈景主題](#佈景主題)
 * [工具](https://samwhelp.github.io/note-about-debian/read/subject/tool.html)
+* [ISO](#iso)
 * [相關筆記](#相關筆記)
 
 
@@ -56,6 +57,20 @@
 | 佈景主題 |
 | -------- |
 | [設定採用「GURB 佈景主題」](https://samwhelp.github.io/note-about-debian/read/subject/grub.html) |
+
+
+
+
+## ISO
+
+## Build ISO
+
+> [Debian / ISO Builder / 探索筆記](https://samwhelp.github.io/note-about-debian-iso-builder/)
+
+| Debian / ISO Builder / Budgie | GitHub |
+| ----------------------------- | ------ |
+| [debian-iso-builder-respin-budgie](https://samwhelp.github.io/debian-iso-builder-respin-budgie/) | [GitHub](https://github.com/samwhelp/debian-iso-builder-respin-budgie) |
+| [debian-iso-builder-remix-budgie](https://samwhelp.github.io/debian-iso-builder-remix-budgie/) | [GitHub](https://github.com/samwhelp/debian-iso-builder-remix-budgie) |
 
 
 
